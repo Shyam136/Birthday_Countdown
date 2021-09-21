@@ -37,5 +37,5 @@ function countDown() {
         days + 'days ' + hours + 'hrs ' + minutes + 'mins ' + seconds + 'secs'
 
 }
-
+//fjds
 timerId = setInterval(countDown, second)
