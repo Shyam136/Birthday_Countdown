@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'digital-7';
+    src: url('../fonts/digital-7.ttf');
+  }  
+
+:root{
+    --primary-color:#000000;
+    --text-color:#ffffff;
+}
+
+body {
+    background-color: var(--primary-color);
+    color: var(--text-color);
+    font-family: 'digital-7', sans-serif;
+    margin-top: 20%;
+    text-align: center;
+    border: 3px;
+  }
