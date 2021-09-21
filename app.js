@@ -2,7 +2,6 @@ const timeLeft = document.getElementById('time-left')
 
 //date format: MM-DD-YYYY
 const birthday = new Date('06/13/2022')
-//git c update
 const second = 1000
 const minute = second * 60
 const hour = minute * 60
